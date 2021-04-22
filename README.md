@@ -227,6 +227,7 @@ Training will use triplets of images *(A, P, N)*:
     print("loss = " + str(loss.numpy()))
 
 Output: 
+
     loss = 527.2598
 
 ## Building Siamese Network
